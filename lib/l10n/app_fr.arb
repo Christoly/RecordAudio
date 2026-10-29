@@ -1,0 +1,31 @@
+{
+  "@@locale": "fr",
+  "appTitle": "Enregistreur audio",
+  "navRecord": "Enregistrer",
+  "navLibrary": "Bibliothèque",
+  "recorderTitle": "Nouvel enregistrement",
+  "recorderIdle": "Prêt à enregistrer",
+  "recorderRecording": "Enregistrement en cours",
+  "recorderPaused": "En pause",
+  "actionStart": "Démarrer",
+  "actionPause": "Pause",
+  "actionResume": "Reprendre",
+  "actionStop": "Arrêter",
+  "libraryTitle": "Mes enregistrements",
+  "libraryEmpty": "Aucun enregistrement pour le moment",
+  "micPermissionRequired": "L'accès au microphone est nécessaire pour enregistrer.",
+  "recorderSaved": "Enregistrement sauvegardé",
+  "errorStartFailed": "Impossible de démarrer l'enregistrement.",
+  "errorStopFailed": "Impossible de terminer l'enregistrement.",
+ "errorLowStorage": "Espace de stockage insuffisant pour enregistrer.",
+  "errorStorageStopped": "Espace de stockage presque plein : l'enregistrement a été arrêté et sauvegardé.",
+  "navSettings": "Réglages",
+  "settingsTitle": "Réglages",
+  "settingsLanguage": "Langue",
+  "languageSystem": "Système",
+  "notifChannelName": "Enregistrement en cours",
+  "recordingCount": "{count, plural, =0{Aucun enregistrement} =1{1 enregistrement} other{{count} enregistrements}}",
+  "@recordingCount": {
+    "placeholders": { "count": { "type": "int" } }
+  }
+}

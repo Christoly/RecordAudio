@@ -1,0 +1,31 @@
+{
+  "@@locale": "en",
+  "appTitle": "Audio Recorder",
+  "navRecord": "Record",
+  "navLibrary": "Library",
+  "recorderTitle": "New recording",
+  "recorderIdle": "Ready to record",
+  "recorderRecording": "Recording",
+  "recorderPaused": "Paused",
+  "actionStart": "Start",
+  "actionPause": "Pause",
+  "actionResume": "Resume",
+  "actionStop": "Stop",
+  "libraryTitle": "My recordings",
+  "libraryEmpty": "No recordings yet",
+  "micPermissionRequired": "Microphone access is required to record.",
+  "recorderSaved": "Recording saved",
+  "errorStartFailed": "Could not start recording.",
+  "errorStopFailed": "Could not finish recording.",
+  "errorLowStorage": "Not enough storage space to record.",
+  "errorStorageStopped": "Storage almost full: the recording was stopped and saved.",
+  "navSettings": "Settings",
+  "settingsTitle": "Settings",
+  "settingsLanguage": "Language",
+  "languageSystem": "System",
+  "notifChannelName": "Recording in progress",
+  "recordingCount": "{count, plural, =0{No recordings} =1{1 recording} other{{count} recordings}}",
+  "@recordingCount": {
+    "placeholders": { "count": { "type": "int" } }
+  }
+}
